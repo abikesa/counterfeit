@@ -1,1 +1,5 @@
-# counterfeit
+- Dostoevsky
+   - Crime & Punishment is a counterfeit "Murder Mystery"
+   - The book is really "Depth Psychology"
+   - In fact Fyodor is a counterfeit novelist
+   - Many view his work as psychological rather than fiction 
